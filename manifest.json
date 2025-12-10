@@ -1,10 +1,9 @@
 ﻿{
-	"name": "NewMod",
+	"name": "LoreAccurateWorms",
 	"version_number": "1.0.0",
 	"website_url": "",
-	"description": "Template",
+	"description": "Changes the logbook entry for Sauteed Worms without making it lame. Grovetender is over the moon.",
 	"dependencies": [
-		"bbepis-BepInExPack-5.4.2117",
-		"RiskofThunder-HookGenPatcher-1.2.4"
+		"RiskofThunder-R2API_Language-1.1.0"
 	]
 }
