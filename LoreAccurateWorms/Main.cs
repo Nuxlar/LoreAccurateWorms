@@ -13,7 +13,7 @@ namespace LoreAccurateWorms
     public const string PluginGUID = PluginAuthor + "." + PluginName;
     public const string PluginAuthor = "Nuxlar";
     public const string PluginName = "LoreAccurateWorms";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "1.0.1";
 
     internal static Main Instance { get; private set; }
     public static string PluginDirectory { get; private set; }
@@ -37,7 +37,7 @@ namespace LoreAccurateWorms
 
     After a while, the ache subsided. Only an emptiness remained.
 
-    With a sigh, Providence took one of the cups his brother had delicately carved from stone.And one last time, he raised the cup to the sky- a toast to the beginning of a new age for Petrichor V.
+    With a sigh, Providence took one of the cups his brother had delicately carved from stone. And one last time, he raised the cup to the sky- a toast to the beginning of a new age for Petrichor V.
     """;
 
     public void Awake()
